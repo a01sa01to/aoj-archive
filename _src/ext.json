@@ -1,0 +1,17 @@
+{
+  "C++": "cpp",
+  "JAVA": "java",
+  "C#": "cs",
+  "D": "d",
+  "Go": "go",
+  "Ruby": "rb",
+  "Rust": "rs",
+  "Python": "py",
+  "JavaScript": "js",
+  "Scala": "scala",
+  "Haskell": "hs",
+  "OCaml": "ml",
+  "PHP": "php",
+  "Kotlin": "kt",
+  "C": "c"
+}
